@@ -1,0 +1,4 @@
+CREATE TRIGGER games_bu
+  BEFORE UPDATE ON games
+  FOR EACH ROW
+  EXECUTE PROCEDURE games_bu();

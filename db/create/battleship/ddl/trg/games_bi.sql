@@ -1,0 +1,4 @@
+CREATE TRIGGER games_bi
+  BEFORE INSERT ON games
+  FOR EACH ROW
+  EXECUTE PROCEDURE games_bi();

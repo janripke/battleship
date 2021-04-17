@@ -1,0 +1,7 @@
+{
+  "type": "postgresql",
+  "host": "localhost",
+  "db": "battleship",
+  "username": "battleship_owner",
+  "password": "battleship_owner"
+}
