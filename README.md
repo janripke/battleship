@@ -20,7 +20,7 @@ $ pip install git+https://github.com/janripke/paprika-connector.git@0.0.4
 ```
 
 battleship depends on the battleship database, in the folder db 
-Before you start the installation of battleship it is recommended you install the database first, see also  [database installation instructions](https://github.com/janripke/battleship/blob/main/docs/postgresql.md) first.
+Before you start the installation of battleship it is recommended you install the database first, see also  [database installation instructions](https://github.com/janripke/battleship/blob/master/docs/postgresql.md) first.
 
 
 # Start Game
